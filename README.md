@@ -40,7 +40,7 @@ This repository contains Luau source code and documentation explaining the game'
 
 ## AI-Assisted Development
 
-The Luau code for this project was developed with assistance from **ChatGPT (OpenAI)**.
+The Luau code for this project was developed with assistance from **ChatGPT**.
 
 AI-assisted development was used during the implementation of gameplay systems and programming functionality.
 
