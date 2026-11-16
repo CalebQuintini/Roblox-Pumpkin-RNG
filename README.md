@@ -4,7 +4,13 @@ Pumpkin RNG is a multiplayer Roblox game developed using **Roblox Studio** and *
 
 Players can upgrade their luck, expand their pumpkin collection, protect their plots, and attempt to steal pumpkins from other players.
 
-![Pumpkin RNG gameplay](assets/InGameScreenshot5.PNG)
+![Pumpkin RNG Gameplay](assets/InGameScreenshot5.PNG)
+
+## Play the Game
+
+**Roblox Experience:** [Play Pumpkin RNG](https://www.roblox.com/games/96643977079347/Pumpkin-RNG)
+
+Play Pumpkin RNG directly on Roblox.
 
 ## Gameplay
 
@@ -32,10 +38,12 @@ Gameplay footage will be added here.
 
 ## Project Documentation
 
-This repository contains Luau source code and documentation explaining the game's implementation.
+This repository contains Luau source code and technical documentation explaining how the game's systems work.
 
-- [Game Overview](docs/01-Game-Overview.md) — An explanation of the gameplay mechanics and player progression.
-- [System Architecture](docs/02-System-Architecture.md) — An overview of the game's major systems and their interactions.
+For more information:
+
+- [Game Overview](docs/01-Game-Overview.md) — An overview of the gameplay mechanics, player progression, and core features.
+- [System Architecture](docs/02-System-Architecture.md) — An explanation of the game's architecture and how its major systems interact.
 - [Gameplay Systems](docs/03-Gameplay-Systems.md) — A technical explanation of the rolling, inventory, placement, income, and stealing systems.
 
 ## AI-Assisted Development
@@ -48,4 +56,4 @@ AI-assisted development was used during the implementation of gameplay systems a
 
 The `src/` directory contains the Luau source files used to implement the game's functionality.
 
-**Note:** This repository showcases the source code and technical documentation. The complete Roblox Studio project, including its models and other game assets, is not included.
+**Note:** This repository showcases the Luau source code and technical documentation. The complete Roblox Studio project, including its models and other game assets, is not included.
