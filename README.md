@@ -34,7 +34,7 @@ Play Pumpkin RNG directly on Roblox.
 
 ## Gameplay Preview
 
-Gameplay footage will be added here.
+https://youtu.be/cs7-2hGLkk8
 
 ## Project Documentation
 
