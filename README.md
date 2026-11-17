@@ -1,4 +1,5 @@
-**Pumpkin RNG** is a multiplayer Roblox game built with **Roblox Studio** and **Luau**. Players roll for pumpkins, buy them, and place them on their own plots. Placed pumpkins generate money over time, which players can collect and use to progress. Players can also defend their plots with barriers or attempt to steal pumpkins from others.
+**Pumpkin RNG** 
+is a multiplayer Roblox game built with **Roblox Studio** and **Luau**. Players roll for pumpkins, buy them, and place them on their own plots. Placed pumpkins generate money over time, which players can collect and use to progress. Players can also defend their plots with barriers or attempt to steal pumpkins from others.
 
 ![Pumpkin RNG gameplay](assets/InGameScreenshot1.PNG)
 
