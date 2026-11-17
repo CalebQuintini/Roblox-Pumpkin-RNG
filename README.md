@@ -81,4 +81,3 @@ The game uses **[Purse](https://purse.luau.page/)** for its inventory and hotbar
 ## AI Assistance
 
 The Luau code for Pumpkin RNG was written with assistance from **ChatGPT (OpenAI)**. The game was developed, integrated, tested, and iterated on in Roblox Studio.
-pkin-RNG-README.md…]()
